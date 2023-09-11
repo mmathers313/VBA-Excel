@@ -1,4 +1,4 @@
-# VBAPastePictures
+# PastePictures
 
 Вы можете использовать эту функцию следующим образом:
 
