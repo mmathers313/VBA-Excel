@@ -26,5 +26,4 @@ Function ВставитьИзображениеПоСсылке(Ссылка As 
     Set Лист = Nothing
     On Error GoTo 0
     
-    ВставитьИзображениеПоСсылке = "Готово"
 End Function
